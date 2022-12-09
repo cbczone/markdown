@@ -64,3 +64,15 @@ alert("Hello");
 | Database | Collection |
 | -------- | ---------- |
 | APIs     | Books      |
+
+---
+
+## Links with foto und style
+
+[<img align="left" alt="frontend-teknoza" width="80px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-frontend.vercel.app/home "Teknoza")
+
+<br />
+<br />
+<br />
+
+---
