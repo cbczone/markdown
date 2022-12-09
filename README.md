@@ -76,3 +76,13 @@ alert("Hello");
 <br />
 
 ---
+
+## Math
+
+$ \alpha < b $
+
+Math : $ a² < \sqrt {b} $
+
+Math : $$ \frac{n!}{k!(n-k)!}=\binom{n}{k} $$
+
+---
